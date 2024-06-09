@@ -1,7 +1,25 @@
 # footware_client
 
 eCommerce Flutter demo project,
-In this project we used Firebase database and Firebase storage for backend support. Also we have anothe Flutter app for admin panel to upload product.
+Here are the technologies that have been used to develop this app:
+- Flutter 3.22.1
+- Firestore Database (for backend support)
+
+dependencies:
+    firebase_core: ^2.32.0
+    cloud_firestore: ^4.17.5
+    dropdown_button2: ^2.3.9
+    get: ^4.6.6
+    get_storage: ^2.1.1
+    otp_text_field_v2: ^1.0.3
+    fluttertoast: ^8.2.6
+
+dev_dependencies:
+    json_serializable: ^6.7.1
+    build_runner: ^2.4.7
+
+</br>
+Also we have anothe Flutter app for admin panel to upload product.
 </br>
 admin project: https://github.com/Emran-Java/e_commerce_admin/tree/master
 
