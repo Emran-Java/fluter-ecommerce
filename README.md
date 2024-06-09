@@ -6,8 +6,8 @@ In this project we used Firebase database and Firebase storage for backend suppo
 admin project: https://github.com/Emran-Java/e_commerce_admin/tree/master
 
 <h2>APK</h2>
-<a>test apk: https://github.com/Emran-Java/fluter-ecommerce/blob/master/apk/foot_ware_client.apk</a></br>
-<a>test admin apk: https://github.com/Emran-Java/e_commerce_admin/blob/master/apk/e_commerce_admin.apk</a>
+<a href="https://github.com/Emran-Java/fluter-ecommerce/blob/master/apk/foot_ware_client.apk">Foot Ware eCommerce app test APK</a></br>
+<a href="https://github.com/Emran-Java/e_commerce_admin/blob/master/apk/e_commerce_admin.apk">Foot Ware eCommerce admin app test APK</a></br>
 
 <h1>Screenshot</h1>
 
