@@ -52,7 +52,7 @@ class ProductItem extends StatelessWidget {
                     fontSize: 14,
                     overflow: TextOverflow.ellipsis,
                     fontWeight: FontWeight.w400),
-                "Rs: $price",
+                "Tk: $price",
               ),
 
               const SizedBox(

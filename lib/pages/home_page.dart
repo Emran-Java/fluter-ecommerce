@@ -74,11 +74,11 @@ class HomePage extends StatelessWidget {
                   )),
                   Flexible(
                       child: DropDownBtn(
-                    items: ['Rs: low to high', 'Rs: high to low'],
+                    items: ['Tk: low to high', 'Tk: high to low'],
                     selectedItemText: 'Short by price',
                     onSelected: (selectedValue) {
                       ctrl.productShortByPrice(isAscending:
-                          selectedValue == 'Rs: high to low' ? false : true);
+                          selectedValue == 'Tk: high to low' ? false : true);
                     },
                   )),
                 ],
