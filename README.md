@@ -2,6 +2,8 @@
 
 eCommerce Flutter demo project,
 In this project we used Firebase database and Firebase storage for backend support. Also we have anothe Flutter app for admin panel to upload product.
+</br>
+admin project: https://github.com/Emran-Java/e_commerce_admin/tree/master
 
 <h1>Screenshot</h1>
 
