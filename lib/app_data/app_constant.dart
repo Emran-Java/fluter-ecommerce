@@ -17,6 +17,7 @@ class AppConstant{
   static const String symbolTextTaka= 'Tk';
 
   //title and levels
+  static const String titleFootWare = 'Foot Ware';
   static const String labelEnterBillAddress = 'Enter your Bill Address';
   static const String titleProductDetails = 'Product Details';
   static const String titleWelcomeBack = 'Welcome Back!';

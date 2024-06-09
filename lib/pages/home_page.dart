@@ -22,7 +22,7 @@ class HomePage extends StatelessWidget {
         },
         child: Scaffold(
           appBar: AppBar(
-            title: const Text("Add Product"),
+            title: const Text(AppConstant.titleFootWare),
             centerTitle: true,
             actions: [
               IconButton(
