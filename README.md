@@ -11,7 +11,7 @@ admin project: https://github.com/Emran-Java/e_commerce_admin/tree/master
 
 <h1>Screenshot</h1>
 
-<p><a https://github.com/Emran-Java/fluter-ecommerce/blob/master/screenshot/eCommerce_demo%20app_by_Flutter.gif" target="_blank">
+<p><a href="https://github.com/Emran-Java/fluter-ecommerce/blob/master/screenshot/eCommerce_demo%20app_by_Flutter.gif" target="_blank">
   <img src="https://github.com/Emran-Java/fluter-ecommerce/blob/master/screenshot/eCommerce_demo%20app_by_Flutter.gif" alt="Demo Screen" style="max-width:100%;">
 </a>
 </p>
