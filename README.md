@@ -1,16 +1,18 @@
 # footware_client
 
-A new Flutter project.
+eCommerce Flutter demo project,
+In this project we used Firebase database and Firebase storage for backend support. Also we have anothe Flutter app for admin panel to upload product.
 
-## Getting Started
+<h1>Screenshot</h1>
 
-This project is a starting point for a Flutter application.
+<p><a https://github.com/Emran-Java/fluter-ecommerce/blob/master/screenshot/eCommerce_demo%20app_by_Flutter.gif" target="_blank">
+  <img src="https://github.com/Emran-Java/fluter-ecommerce/blob/master/screenshot/eCommerce_demo%20app_by_Flutter.gif" alt="Demo Screen" style="max-width:100%;">
+</a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+#Promo video link:</br>
+https://www.youtube.com/watch?v=EC_x9QXfL4g
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
